@@ -7,7 +7,11 @@
 
 ## Books
 
-- Mastering Quantum Computing with IBM QX
+- *Quantum Computation and Quantum Information (10th Anniversary Edition)*, Michael A. Nielsen and Isaac L. Chuang
+
+  One of the most cited books in physics of all time!!!
+
+- *Mastering Quantum Computing with IBM QX*
 
   https://github.com/PacktPublishing/Mastering-Quantum-Computing-with-IBM-QX
 
